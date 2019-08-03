@@ -15,6 +15,7 @@ If we use cab-survey:-
   a) It will take more time as compared to heart.
   b) More efforts and well structured and rigorous planning would be required.
   c) The process is likely to become complicated.
+  d) Too much unwanted data to analyse.
   
   
   
@@ -24,6 +25,7 @@ If we use heart:-
   a) It will take less time.
   b) Not much data science will be used.
   c) The process is more clear while planning the project.
+  d) Relevant data present
   
   Cons
   a) Limited scope of the project.
