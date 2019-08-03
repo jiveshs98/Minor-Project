@@ -4,9 +4,7 @@ There are two folders containing two different kinds of datasets:-
 a) cab-survey             b) heart
 
 
-===================
-cab-survey
-===================
+======== cab-survey ================
 
 This unit level dataset contains the details of Clinical, Anthropometric & Bio-chemical (CAB) Survey. To supplement the information provided by Annual Health Survey (AHS),a biomarker component has been introduced in AHS to collect data on nutritional status, life style diseases like diabetes & hypertension and anemia in Empowered Action Group (EAG) States & Assam. This component, namely Clinical, Anthropometric and Bio-chemical (CAB) survey, is conducted on a sub-sample of AHS in all EAG States namely Bihar, Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha, Rajasthan, Uttarakhand & Uttar Pradesh and Assam.
 
@@ -82,8 +80,6 @@ Acknowledgements
 Department of Health and Family Welfare, Govt. of India has published this data in Open Govt Data Platform India portal under Govt. Open Data License - India.
 
 
-==============================
-heart
-==============================
+====================== heart ==============================
 
 This is a random sample of the approximately 6 million patient records from GE Medical Quality Improvement Consortium (MQIC) database.
