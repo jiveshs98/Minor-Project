@@ -25,7 +25,7 @@ If we use heart:-
   a) It will take less time.
   b) Not much data science will be used.
   c) The process is more clear while planning the project.
-  d) Relevant data present
+  d) testing my data
 
   Cons
   a) Limited scope of the project.
